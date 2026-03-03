@@ -1,0 +1,36 @@
+The <meta> tag was used to define some metadata about the website,
+for example allowing the screen to be scalable to different screen sizes
+
+The <nav> tag was used to implement a navigation bar
+
+The <a> tag was used to link the homepage to the other pages and vice versa
+
+The <button> tag was used to add buttons such as the toggleable navigation bar collapse button
+
+The <ul> tag was used to implement an unordered list
+
+The <li> tag defines the list items
+
+The <h1> and <h2> tags were used as headers
+
+The <p> tag implements paragraphs
+
+The <img> tag was used to insert images
+
+The <iframe> tag was used to insert a pdf viewer
+
+
+The background-color property was used to change the background colour of the whole webpage
+
+The padding properties were used to give the elements proper padding for aesthetics
+
+The color property was used to chnage the color of texts
+
+The border property was used to give the images a border
+
+The width and height property were used to set customise the height of images
+
+
+I chose to use javascript to implement a minigame in one of the html pages involving pressing buttons
+
+I chose to use bootstrap to help align and stylise my elements more conveniently 
