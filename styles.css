@@ -3,16 +3,29 @@ body {
 }
 
 #header {
-    padding-top: 3.5rem;
-    padding-bottom: 3.5rem;
-    font-family: '', sans-serif;
-    background-image: url("/static/header.jpg");
+    padding-top: 20rem;
+    padding-bottom: 20rem;
+    padding-left: 32rem;
+    padding-right: 32rem;
+    font-size:large;
+    background-image: url("static/header3.jpg");
     background-size: cover;
 }
 
-#header h1, p {
-    color: #ebebeb;
+p {
+    color: #a0a4a7;
 }
+
+.zen-dots-regular, p, h1, h2, table, nav {
+  font-family: "Quantico", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+    color:#363b3e;
+}
+
 
 h2 {
     color: #a0a4a7;
