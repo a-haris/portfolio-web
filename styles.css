@@ -44,3 +44,15 @@ h2 {
     margin-right: auto;
     text-align: center;
 }
+
+.card:hover {
+  border-color: #099823; /* Example: Bootstrap primary blue on hover */
+  background-color: #f8f9fa; /* Example: light background change */
+}
+
+/* #btn-back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+} */
