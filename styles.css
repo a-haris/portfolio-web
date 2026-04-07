@@ -3,31 +3,46 @@ body {
 }
 
 #header {
-    padding-top: 20rem;
+    /* padding-top: 20rem;
     padding-bottom: 20rem;
     padding-left: 32rem;
-    padding-right: 32rem;
+    padding-right: 32rem; */
     font-size:large;
     background-image: url("static/header3.jpg");
     background-size: cover;
-    height:auto;
+    height: 100%;
     max-width: 100%;
     width: 100%;
+}
+
+.header {
+    padding-top: 14rem;
+    padding-bottom: 12rem;
+}
+
+.land {
+    text-align: center;
+    font-size: 100px;
+    color: #099823;
 }
 
 p, .cca {
     color: #a0a4a7;
 }
 
+.via p {
+    opacity: 75%;
+}
+
 .cca a {color:#099823}
-.cca a:link {color:#099823;}
-.cca a:hover {color:#046416;}
+.cca a:link, .via a:link {color:#099823;}
+.cca a:hover, .via a:hover {color:#046416;}
 
 .cca, .via {
     color:white;
 }
 
-.zen-dots-regular, p, h1, h2, table, nav, .card-body, h3, h4, h5, h6, .cca {
+.zen-dots-regular, p, h1, h2, table, nav, .card-body, h3, h4, h5, h6, .cca, .via {
   font-family: "Quantico", sans-serif;
   font-weight: 400;
   font-style: normal;
